@@ -1,0 +1,4 @@
+flask
+pylint
+watson-nlp-runtime-client
+grpcio
